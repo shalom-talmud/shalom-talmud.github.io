@@ -1,4 +1,5 @@
-# Shalom Talmud
+> dernière modification 19/12/2023
+
 ![Baba-Kama-1-9c590db0](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/f952fcba-90f0-4c6b-a07f-2cdd54d14e82)
 ![Baba-Kama-2-53c44884](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/6e4ee28a-4275-4ce7-a160-4202d3b53355)
 ![Baba-Kama-3-25e12993](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/e87dea34-1e71-44b9-b7c5-b9b29926759c)
