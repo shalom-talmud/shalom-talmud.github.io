@@ -8,3 +8,4 @@
 ![Baba-Kama-7-49c2cfbf](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/44190f25-9592-4029-9924-98c8afb39a9c)
 ![Baba-Kama-8-3834bf77](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/91b1af4a-33ed-4b10-b5b6-63a100c0d5b8)
 ![Baba-Kama-9-7f9bae6e](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/a25864a9-3c65-4f81-9703-0ff7a95ba3c0)
+![img_1_1702967726836](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/f076bb08-aae7-4050-adcb-37b2c20e84d5)
