@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
 > dernière modification 02/01/2024
 
 ![baba-kama-1-9c590db0](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/1c33c59d-1692-4226-a51a-469865c2052b)
