@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="favicon.png">
+<link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png">
 
 > dernière modification 02/01/2024
 
