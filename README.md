@@ -1,4 +1,4 @@
-> dernière modification 02/01/2024
+> dernière modification 10/01/2024
 
 ![baba-kama-1-9c590db0](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/1c33c59d-1692-4226-a51a-469865c2052b)
 ![baba-kama-2-53c44884](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/a0bca161-07bd-4e14-a995-130e66a62902)
@@ -12,6 +12,10 @@
 ![baba-kama-10-9c9c0a92](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/4dac411c-1990-4454-a2da-93d1173e4dca)
 ![baba-kama-11-905973e8](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/d9076bd6-3549-49d8-a93e-8f4fa6163c52)
 ![baba-kama-12-34024ddf](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/99c09ef9-bbdb-41ac-924b-6abc60856101)
+![img_2_1704894639963](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/3c7b3414-2f44-47e9-aef2-5d5b3d2fc0ed)
+
+
+
 
 
 
