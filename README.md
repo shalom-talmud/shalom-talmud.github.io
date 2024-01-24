@@ -55,3 +55,8 @@
 <div align="center">Télécharger la page 14 de Baba Kama: <a href="https://bit.ly/3NRf1mv">https://bit.ly/3NRf1mv</a></div>
 
 ![baba-kama-14-8faad296](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/e5d5c0b8-9ded-4176-8c12-de95334f11e8)
+
+<div align="center">Télécharger la page 15 de Baba Kama: <a href="https://bit.ly/3Sfu9Nm">https://bit.ly/3Sfu9Nm</a></div>
+
+![baba-kama-15-0d6e1d60](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/c4b65f0e-cb29-406c-b1ed-afe28078818f)
+
