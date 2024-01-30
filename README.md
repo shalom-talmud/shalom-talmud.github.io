@@ -60,3 +60,7 @@
 
 ![baba-kama-15-0d6e1d60](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/c4b65f0e-cb29-406c-b1ed-afe28078818f)
 
+<div align="center">Télécharger la page 16 de Baba Kama: <a href="https://bit.ly/3vCbO49">https://bit.ly/3vCbO49</a></div>
+
+![baba-kama-16-1cb26bac](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/35f35b6e-b6b1-4f52-9196-375841453b8a)
+
