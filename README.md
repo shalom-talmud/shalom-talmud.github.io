@@ -1,4 +1,4 @@
-> dernière modification 20/02/2024
+> dernière modification 26/03/2024
 
 <div align="center">Télécharger la page 1 de Baba Kama: <a href="https://bit.ly/3QGdeCB">https://bit.ly/3QGdeCB</a></div>
 
@@ -75,4 +75,8 @@
 <div align="center">Télécharger la page 19 de Baba Kama: <a href="https://bit.ly/48aKLu2">https://bit.ly/48aKLu2</a></div>
 
 ![baba-kama-19-fb5bbf3b](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/9cf5c44f-28fb-4a3d-ab90-fb2c877c38a5)
+
+<div align="center">Télécharger la page 20 de Baba Kama: <a href="https://bit.ly/3Ts4jGo">https://bit.ly/3Ts4jGo</a></div>
+
+![baba-kama-20-d40465b1](https://github.com/shalom-talmud/shalom-talmud.github.io/assets/153726442/40594d3f-0b55-44d8-a9f5-812c86f855fe)
 
